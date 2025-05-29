@@ -1,0 +1,6 @@
+[
+  {"description": "User unable to connect via VPN"},
+  {"description": "Account lockout after multiple failed login attempts"},
+  {"description": "Need help with password reset"},
+  {"description": "Laptop running slow"}
+]
