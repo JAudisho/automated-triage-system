@@ -38,8 +38,3 @@ $ python main.py
 Description: User unable to connect via VPN
 Priority: High
 Category: Access Issues
-
-
-## 🔐 Note
-
-This is a demo project. No real credentials or production API calls are made.
