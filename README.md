@@ -21,9 +21,7 @@ This project was built to automate triage for common IT issues such as VPN locko
 - Mocked ServiceNow API calls using `requests`
 - JSON for data input and configuration
 
-## 🚀 Sample Run
-
-$ python main.py
+## 🚀 Sample Output
 
 [+] Creating incident:
 Description: User unable to connect via VPN
