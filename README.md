@@ -21,15 +21,6 @@ This project was built to automate triage for common IT issues such as VPN locko
 - Mocked ServiceNow API calls using `requests`
 - JSON for data input and configuration
 
-## 📁 Structure
-
-- `main.py` – Entry point – loads and classifies tickets
-- `nlp_classifier.py` – NLP logic for ticket classification
-- `servicenow_api.py` – Mocks ticket creation with ServiceNow API
-- `sample_tickets.json` – Sample data to triage
-- `config.json` – Placeholder for credentials
-- `requirements.txt` – Python dependencies
-
 ## 🚀 Sample Run
 
 $ python main.py
